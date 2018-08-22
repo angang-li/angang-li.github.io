@@ -84,10 +84,20 @@ p {
     padding-bottom: 20px;
 }
 
+.project p {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
 .content-container {
     width: 80%;
-    min-height: 86.5vh;
+    /* min-height: 86.5vh; */
 }
+
+.project-image {
+    padding: 0px;
+}
+
 
 /* media queries */
 @media (max-width: 768px) {
